@@ -3,5 +3,3 @@ Remote editing
 
 Fot gitGui line
 Line that would be reverted
-
-skiiip
