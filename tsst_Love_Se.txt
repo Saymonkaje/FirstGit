@@ -5,3 +5,5 @@ Fot gitGui line
 Line that would be reverted
 
 skiiip
+
+add new text from feautyr
