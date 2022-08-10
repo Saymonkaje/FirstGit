@@ -11,4 +11,6 @@ second commit from feauture
 
 conflict ma;iin commit 
 
+main chekout
+I dont know what happen j===
 
